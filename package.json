@@ -1,0 +1,29 @@
+{
+  "name": "hubot-map-kor",
+  "version": "1.0.4",
+  "description": "한국 지도 검색 (Daum 지도)",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mnpk/hubot-map-kor.git"
+  },
+  "keywords": [
+    "hubot",
+    "map",
+    "휴봇",
+    "지도",
+    "다음"
+  ],
+  "author": "mnpk <mnncat@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnpk/hubot-map-kor/issues"
+  },
+  "homepage": "https://github.com/mnpk/hubot-map-kor",
+  "dependencies": {
+    "daum-map-api": "^1.0.2"
+  }
+}
