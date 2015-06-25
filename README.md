@@ -1,5 +1,7 @@
 # hubot-map-kor
-:round_pushpin: 휴봇으로 한국 지도 검색 ([Daum 지도 API](http://apis.map.daum.net/web/) 사용)
+:round_pushpin: 휴봇으로 한국 지도 검색
+
+*([daum-map-api](https://github.com/mnpk/daum-map-api) 모듈을 통해 [Daum 지도 API](http://apis.map.daum.net/web/) 사용)*
 
 [![npm](https://img.shields.io/npm/v/hubot-map-kor.svg?style=flat-square)](https://www.npmjs.com/package/hubot-map-kor)
 
