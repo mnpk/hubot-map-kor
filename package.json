@@ -1,6 +1,6 @@
 {
   "name": "hubot-map-kor",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "한국 지도 검색 (Daum 지도)",
   "main": "index.coffee",
   "scripts": {
